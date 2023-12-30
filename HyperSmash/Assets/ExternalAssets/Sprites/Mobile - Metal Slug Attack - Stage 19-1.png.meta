@@ -1,0 +1,247 @@
+fileFormatVersion: 2
+guid: 92e76fcfc085415448837833d1868e8f
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Stage 19-1_15
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 190
+        width: 1024
+        height: 207
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9825242b8613fcf4187149139801a407
+      internalID: 107774609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Attack - Stage 19-1_22
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 108
+        width: 1024
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc226cd8b411943448ed36d3eda4cc70
+      internalID: -774820946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Mobile - Metal Slug Attack - Stage 19-1_0: 1959079057
+      Mobile - Metal Slug Attack - Stage 19-1_1: -1002407098
+      Mobile - Metal Slug Attack - Stage 19-1_10: -856669514
+      Mobile - Metal Slug Attack - Stage 19-1_11: 472298839
+      Mobile - Metal Slug Attack - Stage 19-1_12: -470885270
+      Mobile - Metal Slug Attack - Stage 19-1_13: 79334398
+      Mobile - Metal Slug Attack - Stage 19-1_14: 952510314
+      Mobile - Metal Slug Attack - Stage 19-1_15: 107774609
+      Mobile - Metal Slug Attack - Stage 19-1_16: -1590922355
+      Mobile - Metal Slug Attack - Stage 19-1_17: 14751005
+      Mobile - Metal Slug Attack - Stage 19-1_18: 1035230508
+      Mobile - Metal Slug Attack - Stage 19-1_19: 1502043756
+      Mobile - Metal Slug Attack - Stage 19-1_2: 1144097540
+      Mobile - Metal Slug Attack - Stage 19-1_20: 1422591049
+      Mobile - Metal Slug Attack - Stage 19-1_21: 2121802903
+      Mobile - Metal Slug Attack - Stage 19-1_22: -774820946
+      Mobile - Metal Slug Attack - Stage 19-1_23: 1148076006
+      Mobile - Metal Slug Attack - Stage 19-1_24: 2069010519
+      Mobile - Metal Slug Attack - Stage 19-1_25: 1622237365
+      Mobile - Metal Slug Attack - Stage 19-1_26: -428037120
+      Mobile - Metal Slug Attack - Stage 19-1_27: -354739021
+      Mobile - Metal Slug Attack - Stage 19-1_28: 605644036
+      Mobile - Metal Slug Attack - Stage 19-1_29: -250073783
+      Mobile - Metal Slug Attack - Stage 19-1_3: -1447411447
+      Mobile - Metal Slug Attack - Stage 19-1_30: -771193971
+      Mobile - Metal Slug Attack - Stage 19-1_31: -806447595
+      Mobile - Metal Slug Attack - Stage 19-1_32: 861265958
+      Mobile - Metal Slug Attack - Stage 19-1_33: 1521117665
+      Mobile - Metal Slug Attack - Stage 19-1_34: 57572778
+      Mobile - Metal Slug Attack - Stage 19-1_35: 46817593
+      Mobile - Metal Slug Attack - Stage 19-1_36: 1133789322
+      Mobile - Metal Slug Attack - Stage 19-1_37: -1605778643
+      Mobile - Metal Slug Attack - Stage 19-1_38: -1606253960
+      Mobile - Metal Slug Attack - Stage 19-1_39: -925871321
+      Mobile - Metal Slug Attack - Stage 19-1_4: 435536011
+      Mobile - Metal Slug Attack - Stage 19-1_40: -1315564641
+      Mobile - Metal Slug Attack - Stage 19-1_41: 1830623896
+      Mobile - Metal Slug Attack - Stage 19-1_42: 1872511776
+      Mobile - Metal Slug Attack - Stage 19-1_43: 2003563939
+      Mobile - Metal Slug Attack - Stage 19-1_44: 249952682
+      Mobile - Metal Slug Attack - Stage 19-1_45: -761755670
+      Mobile - Metal Slug Attack - Stage 19-1_46: 1019125247
+      Mobile - Metal Slug Attack - Stage 19-1_47: 239389941
+      Mobile - Metal Slug Attack - Stage 19-1_48: -1198710831
+      Mobile - Metal Slug Attack - Stage 19-1_49: -826338262
+      Mobile - Metal Slug Attack - Stage 19-1_5: 452507396
+      Mobile - Metal Slug Attack - Stage 19-1_50: -1459045957
+      Mobile - Metal Slug Attack - Stage 19-1_51: 388095313
+      Mobile - Metal Slug Attack - Stage 19-1_6: 2017085434
+      Mobile - Metal Slug Attack - Stage 19-1_7: -1028757223
+      Mobile - Metal Slug Attack - Stage 19-1_8: -1443148785
+      Mobile - Metal Slug Attack - Stage 19-1_9: 1982461153
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

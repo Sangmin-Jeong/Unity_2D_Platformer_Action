@@ -1,0 +1,133 @@
+Asset Name: Sunny Land
+
+Link: https://assetstore.unity.com/packages/2d/characters/sunny-land-103349
+
+License agreement: Standard Unity Asset Store EULA
+
+Extension Asset: One license required for each individual user.
+
+Author Name: Ansimuz 
+
+Latest release Date: 10-Nov-2022
+
+-------------------------------------------------------------------------------------------------------
+
+Asset Name: Sunny Land Forest
+
+Link: https://assetstore.unity.com/packages/2d/characters/sunny-land-forest-108124
+
+License agreement: Standard Unity Asset Store EULA
+
+Extension Asset: One license required for each individual user.
+
+Author Name: Ansimuz
+
+Latest release Date: 24-Jan-2018
+
+-------------------------------------------------------------------------------------------------------
+
+Asset Name: Complete Music Collection FREE Edition
+
+Link: https://assetstore.unity.com/packages/audio/music/complete-music-collection-free-edition-119129
+
+License agreement: Standard Unity Asset Store EULA
+
+Extension Asset: One license required for each individual user.
+
+Author Name: Plastic Sound Design
+
+Latest release Date: 22-May-2019
+
+-------------------------------------------------------------------------------------------------------
+
+Asset Name: DOTween (HOTween v2)
+
+Link: https://assetstore.unity.com/packages/tools/animation/dotween-hotween-v2-27676
+
+License agreement: Standard Unity Asset Store EULA
+
+Extension Asset: One license required for each individual user.
+
+Author Name: Demigiant
+
+Latest release Date: 11-Aug-2023
+
+-------------------------------------------------------------------------------------------------------
+
+Asset Name: Sephiroth (Legendary Hero)
+
+Link: https://www.spriters-resource.com/mobile/finalfantasybraveexvius/sheet/174391/
+
+Author Name: Henry Nazta
+
+-------------------------------------------------------------------------------------------------------
+
+Asset Name: Fantasy Wooden GUI : Free
+
+Link: https://assetstore.unity.com/packages/2d/gui/fantasy-wooden-gui-free-103811
+
+License agreement: Standard Unity Asset Store EULA
+
+Extension Asset: One license required for each individual user.
+
+Author Name: Black Hammer
+
+Latest release Date: 18-Feb-2019
+
+-------------------------------------------------------------------------------------------------------
+
+Asset Name: Stage 19-1
+
+Link: https://www.spriters-resource.com/mobile/metalslugattack/sheet/139776/	
+
+Author Name: borderoflife
+
+-------------------------------------------------------------------------------------------------------
+
+Asset Name: Auron (Legendary Guardian)
+
+Link: https://www.spriters-resource.com/mobile/finalfantasybraveexvius/sheet/174348//
+
+Author Name: Nazta
+
+-------------------------------------------------------------------------------------------------------
+
+Asset Name: FREE Casual Game SFX Pack
+
+Link: https://assetstore.unity.com/packages/audio/sound-fx/free-casual-game-sfx-pack-54116
+
+License agreement: Standard Unity Asset Store EULA
+
+Extension Asset: One license required for each individual user.
+
+Author Name: Dustyroom
+
+Latest release Date: 04-Mar-2019
+
+-------------------------------------------------------------------------------------------------------
+
+Asset Name: Cartoon FX Remaster Free
+
+Link: https://assetstore.unity.com/packages/vfx/particles/cartoon-fx-remaster-free-109565
+
+License agreement: Standard Unity Asset Store EULA
+
+Extension Asset: One license required for each individual user.
+
+Author Name: Jean Moreno
+
+Latest release Date: 03-Nov-2023
+
+-------------------------------------------------------------------------------------------------------
+
+Link: https://assetstore.unity.com/packages/audio/sound-fx/free-casual-game-sfx-pack-54116
+
+License agreement: Standard Unity Asset Store EULA
+
+Extension Asset: One license required for each individual user.
+
+Author Name: Dustyroom
+
+Latest release Date: 04-Mar-2019
+
+-------------------------------------------------------------------------------------------------------
